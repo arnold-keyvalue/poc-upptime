@@ -11,7 +11,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /poc-upptime
   logoUrl: https://www.keyvalue.systems/images/kvlogo.svg
   name: Keyvalue Status
   introTitle: "This is a status page for all Keyvalue projects."
