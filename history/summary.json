@@ -4,18 +4,20 @@
     "url": "https://www.keyvalue.systems",
     "icon": "https://icons.duckduckgo.com/ip3/www.keyvalue.systems.ico",
     "slug": "keyvalue-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 648,
-    "timeWeek": 615,
-    "timeMonth": 671,
-    "timeYear": 691,
-    "dailyMinutesDown": {}
+    "time": 797,
+    "timeDay": 3258,
+    "timeWeek": 1272,
+    "timeMonth": 839,
+    "timeYear": 797,
+    "dailyMinutesDown": {
+      "2024-10-27": 0
+    }
   },
   {
     "name": "triibe",
