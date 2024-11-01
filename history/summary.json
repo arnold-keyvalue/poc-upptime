@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.keyvalue.systems.ico",
     "slug": "keyvalue-website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 786,
-    "timeDay": 676,
-    "timeWeek": 1228,
-    "timeMonth": 841,
-    "timeYear": 786,
+    "uptimeYear": "99.98%",
+    "time": 783,
+    "timeDay": 633,
+    "timeWeek": 1243,
+    "timeMonth": 844,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2024-10-27": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 96,
-    "timeWeek": 310,
-    "timeMonth": 356,
-    "timeYear": 443,
+    "time": 438,
+    "timeDay": 154,
+    "timeWeek": 321,
+    "timeMonth": 352,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   }
 ]
