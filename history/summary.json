@@ -24,19 +24,19 @@
     "url": "https://web.triibe.club",
     "icon": "https://icons.duckduckgo.com/ip3/web.triibe.club.ico",
     "slug": "triibe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 598,
-    "timeWeek": 397,
-    "timeMonth": 501,
-    "timeYear": 430,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 429,
+    "timeDay": 361,
+    "timeWeek": 363,
+    "timeMonth": 488,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-03-12": 0
+      "2025-03-12": 31
     }
   }
 ]
