@@ -24,7 +24,7 @@
     "url": "https://web.triibe.club",
     "icon": "https://icons.duckduckgo.com/ip3/web.triibe.club.ico",
     "slug": "triibe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 397,
     "timeMonth": 501,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   }
 ]
